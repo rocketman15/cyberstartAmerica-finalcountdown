@@ -7,4 +7,6 @@ This is a python script that will take the data from the five websites and put i
 <br>step 5 type the command python3 solve.py but do NOT hit enter yet. back on the cyberstartAmerica website, watch the counter closely. as soon as it resets, hit enter on the previous command.
 <br>step 6 click on the provided link <b>WITHOUT DELAY</b>.<br><b>the link will expire as soon as the counter hits zero.</b>
 (this may take a few tries)
+<br> enter the provided flag on the challenge page. 
+<br> Note: if you detect any errors or bugs(or just something that could be done better), in my post or code, feel free to let me know about them in the comments. good luck and happy hacking!
 
